@@ -11,6 +11,14 @@ Grass texture from [here](https://www.google.com/search?tbs=simg:CAQSfBp6CxCwjKc
 All other assets are from https://learnopengl.com/
 
 ## Screenshots
+### Lighting demo, using ambient, diffuse, and specular lightning
+<img src="readme/sc2.png" alt="screenshot2" width="600" title="Lighting demo, using ambient, diffuse, and specular lightning"/>
+
+### Skybox, tinted windows
+<img src="readme/sc4.png" alt="screenshot4" width="600" title="Skybox, tinted windows"/>
+
+### "Rearview mirror" at top
+<img src="readme/sc3.png" alt="screenshot3" width="600" title="Rearview mirror"/>
 
 ## TODO
 Make a WebGL version using Three.js
